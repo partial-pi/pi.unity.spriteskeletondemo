@@ -1,0 +1,36 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\smashrpg\animation\AnimationEventHandler.cs">
+    <Files>
+      <File FileName="Assets\scripts\doc\1. Unity Sprite Skeleton" Line="1" Column="1" />
+      <File FileName="Assets\scripts\gg.unity\util\Assert.cs" Line="6" Column="1" />
+      <File FileName="Assets\scripts\gg.unity\util\AssetsUtil.cs" Line="13" Column="24" />
+      <File FileName="Assets\scripts\gg.unity\util\GameObjectExtensions.cs" Line="204" Column="17" />
+      <File FileName="Assets\scripts\gg.unity\spriteskeleton\BoneZOrderBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\gg.unity\spriteskeleton\BoneZOrderCollection.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\gg.unity\spriteskeleton\SpriteBoneSkin.cs" Line="116" Column="2" />
+      <File FileName="Assets\scripts\gg.unity\spriteskeleton\SpriteSkeletonSkin.cs" Line="25" Column="14" />
+      <File FileName="Assets\scripts\gg.unity\resources\ColorCollection.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\gg.unity\spriteskeleton\SpriteSkeletonSkinAsset.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\gg.unity\spriteskeleton\SpriteSkinBehaviour.cs" Line="109" Column="33" />
+      <File FileName="Assets\scripts\smashrpg\animation\AnimationEventHandler.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\mark\Code\unity\towerdefense\Assets\character\Group.cs" line="53" />
+      <Breakpoint file="C:\Users\mark\Code\unity\towerdefense\Assets\character\AbilityExecution.cs" line="35" />
+      <Breakpoint file="C:\Users\mark\Code\unity\towerdefense\Assets\character\CharacterStats.cs" line="22" />
+      <Breakpoint file="C:\Users\mark\Code\unity\towerdefense\Assets\character\MeleeAttack.cs" line="65" />
+      <Breakpoint file="C:\Users\mark\Code\unity\towerdefense\Assets\scripts\animation\AnimationEventHandler.cs" line="41" />
+      <Breakpoint file="c:\Users\mark\Code\unity\towerdefense\Assets\scripts\abilities\MeleeAttack.cs" line="117" />
+      <Breakpoint file="C:\Users\mark\Code\unity\towerdefense\Assets\Editor\SpriteSkeletonInspector.cs" line="19" />
+      <Breakpoint file="C:\Users\mark\Code\unity\towerdefense\Assets\scripts\animation\AnimationEventHandler.cs" line="71" />
+      <Breakpoint file="C:\Users\mark\Code\unity\towerdefense\Assets\Editor\SpriteStateEditor.cs" line="145" />
+      <Breakpoint file="C:\Users\mark\Code\unity\towerdefense\Assets\Editor\SpriteSkinEditor.cs" line="17" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets\newanims\SpriteSpawnOption.cs" line="27" offsetX="828" offsetY="442" expression="spriteOffsets" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
